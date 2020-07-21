@@ -1,0 +1,130 @@
+body{
+    background-image: url('../image/pattern.jpg');
+}
+
+header{
+    background-color: white;
+    width: 101%;
+    height: 8%;
+    margin-left: -0.5%;
+    margin-top: -1%;
+    position: fixed;
+}
+nav{
+    margin-left: 86%;
+    margin-top: -2.5%;
+}
+
+/* ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: block;
+    text-decoration: none;
+} */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+    margin: 0 0 0 21px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+h1{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    color: white;
+}
+
+/* div{
+    text-decoration: un;
+} */
+
+/* #article-list{
+    margin: auto;
+    margin-top: 10%;
+    width: 80%;
+    background-color: white;
+} */
+section{
+    margin: auto;
+    width: 80%;
+    background-color: white;
+}
+.about{
+    margin: auto;
+    width: 80%;
+    height: 56%;
+    background-color: white;
+    border: 1px solid black;
+}
+.contact{
+    border: 1px solid black;
+}
+footer{
+    position: relative;
+    margin-left: -0.5%;
+   bottom: 0;
+   width: 101%;
+   height: 10%;
+   background-color: black;
+   color: white;
+   text-align: center;
+    /* background-color: black;
+    margin-left: -0.5%;
+    width: 101%;
+    height: 8%; */
+    /* margin-top: -1%; */
+}
+.footer-about{
+    position: fixed;
+    margin-left: -0.5%;
+   bottom: 0;
+   width: 101%;
+   height: 10%;
+   background-color: black;
+   color: white;
+   text-align: center;
+    /* background-color: black;
+    margin-left: -0.5%;
+    width: 101%;
+    height: 8%; */
+    /* margin-top: -1%; */
+}
+.footer-contact{
+    position: fixed;
+    margin-left: -0.5%;
+   bottom: 0;
+   width: 101%;
+   height: 10%;
+   background-color: black;
+   color: white;
+   text-align: center;
+    /* background-color: black;
+    margin-left: -0.5%;
+    width: 101%;
+    height: 8%; */
+    /* margin-top: -1%; */
+}
+.radio-jk{
+    margin-left: 10%;
+    margin-top: -2%;
+}
