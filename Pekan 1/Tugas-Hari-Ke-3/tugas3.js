@@ -19,10 +19,10 @@ console.log("Soal 2 => " + jum);
 var kalimat = 'wah javascript itu keren sekali'; 
 
 var kataPertama = kalimat.substring(0, 3); 
-var kataKedua = kalimat.substring(4,14); // do your own! 
-var kataKetiga = kalimat.substring(15,18); // do your own! 
-var kataKeempat = kalimat.substring(19,25); // do your own! 
-var kataKelima = kalimat.substring(25,31); // do your own! 
+var kataKedua = kalimat.substring(4,14);
+var kataKetiga = kalimat.substring(15,18);
+var kataKeempat = kalimat.substring(19,25);
+var kataKelima = kalimat.substring(25,31);
 
 console.log("Soal 3 => " + 'Kata Pertama: ' + kataPertama); 
 console.log("Soal 3 => " + 'Kata Kedua: ' + kataKedua); 
