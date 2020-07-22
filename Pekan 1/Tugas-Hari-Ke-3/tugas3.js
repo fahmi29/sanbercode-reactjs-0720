@@ -11,8 +11,9 @@ var kataPertama = "1";
 var kataKedua = "2";
 var kataKetiga = "4";
 var kataKeempat = "5";
+var jum = parseInt(kataPertama) + parseInt(kataKedua) + parseInt(kataKetiga) + parseInt(kataKeempat)
 
-console.log("Soal 2 => " + parseInt(kataPertama) + parseInt(kataKedua) + parseInt(kataKetiga) + parseInt(kataKeempat));
+console.log("Soal 2 => " + jum);
 
 // Soal 3
 var kalimat = 'wah javascript itu keren sekali'; 
